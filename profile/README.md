@@ -6,7 +6,7 @@ My research spans spiking neural networks, reinforcement learning, and AI for sc
 
 **M.Sc. in Artificial Intelligence** · University of Chinese Academy of Sciences / Institute of Automation, Chinese Academy of Sciences · 2023–2026
 
-[Homepage](https://yongjian-wang6.github.io/) · [Email](mailto:wyjares@163.com) · [OpenReview](https://openreview.net/profile?id=~Yongjian_Wang3)
+[Homepage](https://yongjian-wang6.github.io/) · [Email](mailto:wangyongjian23@mails.ucas.ac.cn) · [OpenReview](https://openreview.net/profile?id=~Yongjian_Wang3)
 
 [中文](README.zh-CN.md)
 

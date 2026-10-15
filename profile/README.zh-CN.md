@@ -6,7 +6,7 @@
 
 **人工智能硕士** · 中国科学院大学 / 中国科学院自动化研究所 · 2023–2026
 
-[个人主页](https://yongjian-wang6.github.io/) · [Email](mailto:wyjares@163.com) · [OpenReview](https://openreview.net/profile?id=~Yongjian_Wang3)
+[个人主页](https://yongjian-wang6.github.io/) · [Email](mailto:wangyongjian23@mails.ucas.ac.cn) · [OpenReview](https://openreview.net/profile?id=~Yongjian_Wang3)
 
 [English](README.md)
 
