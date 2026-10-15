@@ -6,7 +6,7 @@
 
 **人工智能硕士** · 中国科学院大学 / 中国科学院自动化研究所 · 2023–2026
 
-[个人主页](https://fertaylageeze.github.io/) · [Email](mailto:wyjares@163.com) · [OpenReview](https://openreview.net/profile?id=~Yongjian_Wang3)
+[个人主页](https://yongjian-wang6.github.io/) · [Email](mailto:wyjares@163.com) · [OpenReview](https://openreview.net/profile?id=~Yongjian_Wang3)
 
 [English](README.md)
 
@@ -44,9 +44,9 @@
 
 ## 开源工具
 
-- [Repro Flightdeck](https://github.com/FertayLageeze/repro-flightdeck) — 可审计的实验智能体原型：执行、恢复输出绑定、独立验证与过程回放。
-- [split-leakage-audit](https://github.com/FertayLageeze/split-leakage-audit) — 离线检查训练、验证与测试集之间的样本、分组和内容重叠。
-- [paired-eval](https://github.com/FertayLageeze/paired-eval) — 严格对齐实验单元的配对比较，输出效应量、Bootstrap 区间与符号翻转检验。
+- [Repro Flightdeck](https://github.com/Yongjian-Wang6/repro-flightdeck) — 可审计的实验智能体原型：执行、恢复输出绑定、独立验证与过程回放。
+- [split-leakage-audit](https://github.com/Yongjian-Wang6/split-leakage-audit) — 离线检查训练、验证与测试集之间的样本、分组和内容重叠。
+- [paired-eval](https://github.com/Yongjian-Wang6/paired-eval) — 严格对齐实验单元的配对比较，输出效应量、Bootstrap 区间与符号翻转检验。
 
 ## 研究与工程
 

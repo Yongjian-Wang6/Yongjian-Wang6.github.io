@@ -6,7 +6,7 @@ My research spans spiking neural networks, reinforcement learning, and AI for sc
 
 **M.Sc. in Artificial Intelligence** · University of Chinese Academy of Sciences / Institute of Automation, Chinese Academy of Sciences · 2023–2026
 
-[Homepage](https://fertaylageeze.github.io/) · [Email](mailto:wyjares@163.com) · [OpenReview](https://openreview.net/profile?id=~Yongjian_Wang3)
+[Homepage](https://yongjian-wang6.github.io/) · [Email](mailto:wyjares@163.com) · [OpenReview](https://openreview.net/profile?id=~Yongjian_Wang3)
 
 [中文](README.zh-CN.md)
 
@@ -44,9 +44,9 @@ My research spans spiking neural networks, reinforcement learning, and AI for sc
 
 ## Open-source software
 
-- [Repro Flightdeck](https://github.com/FertayLageeze/repro-flightdeck) — An inspectable experiment-agent prototype for execution, output-binding recovery, independent verification, and replay.
-- [split-leakage-audit](https://github.com/FertayLageeze/split-leakage-audit) — Offline checks for sample, group, and content overlap across declared dataset splits.
-- [paired-eval](https://github.com/FertayLageeze/paired-eval) — Strictly aligned paired comparisons with effect estimates, bootstrap intervals, and sign-flip tests.
+- [Repro Flightdeck](https://github.com/Yongjian-Wang6/repro-flightdeck) — An inspectable experiment-agent prototype for execution, output-binding recovery, independent verification, and replay.
+- [split-leakage-audit](https://github.com/Yongjian-Wang6/split-leakage-audit) — Offline checks for sample, group, and content overlap across declared dataset splits.
+- [paired-eval](https://github.com/Yongjian-Wang6/paired-eval) — Strictly aligned paired comparisons with effect estimates, bootstrap intervals, and sign-flip tests.
 
 ## Research & engineering
 

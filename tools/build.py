@@ -7,6 +7,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "docs"
 P = json.loads((SITE / "data/profile.json").read_text())
+HOMEPAGE = f"https://{P['github'].lower()}.github.io/"
 E = html.escape
 
 
@@ -80,9 +81,9 @@ page = f'''<!doctype html>
   <meta property="og:title" content="Yongjian Wang · 王永健">
   <meta property="og:description" content="Brain-inspired intelligence, scientific reasoning, and AI for healthcare.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://fertaylageeze.github.io/">
-  <meta property="og:image" content="https://fertaylageeze.github.io/assets/portrait.png">
-  <link rel="canonical" href="https://fertaylageeze.github.io/">
+  <meta property="og:url" content="{HOMEPAGE}">
+  <meta property="og:image" content="{HOMEPAGE}assets/portrait.png">
+  <link rel="canonical" href="{HOMEPAGE}">
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="assets/style.css">
   <script src="assets/main.js" defer></script>
@@ -131,7 +132,7 @@ def readme(lang):
     title = "王永健 | Yongjian Wang" if zh else "Yongjian Wang | 王永健"
     lines = [f"# {title}", "", P["intro"][lang], "", P["about"][lang], "",
              f"**{P['education']['degree'][lang]}** · {P['education']['institution'][lang]} / {P['education']['institute'][lang]} · 2023–2026", "",
-             f"[{'个人主页' if zh else 'Homepage'}](https://fertaylageeze.github.io/) · [Email](mailto:{P['email']}) · [OpenReview]({P['openreview']})", "",
+             f"[{'个人主页' if zh else 'Homepage'}]({HOMEPAGE}) · [Email](mailto:{P['email']}) · [OpenReview]({P['openreview']})", "",
              f"[{'English' if zh else '中文'}]({'README.md' if zh else 'README.zh-CN.md'})", "",
              f"## {'论文与研究稿件' if zh else 'Publications & manuscripts'}", ""]
     for status, heading in [("published", "已发表" if zh else "Published"), ("under-review", "在投" if zh else "Under review"), ("withdrawn", "撤稿与后续计划" if zh else "Withdrawn & planned")]:

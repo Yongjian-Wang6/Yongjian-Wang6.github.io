@@ -2,8 +2,8 @@
 
 中英双语学术主页和 GitHub 个人简介的源文件。
 
-- 主页：https://fertaylageeze.github.io/
-- GitHub：https://github.com/FertayLageeze
+- 主页：https://yongjian-wang6.github.io/
+- GitHub：https://github.com/Yongjian-Wang6
 - 内容数据：[docs/data/profile.json](docs/data/profile.json)
 - 网页：[docs/index.html](docs/index.html)
 - 配套个人简介：[profile/README.md](profile/README.md) / [中文](profile/README.zh-CN.md)
@@ -37,9 +37,9 @@ python -m http.server 8765 --directory docs
 
 ## 发布
 
-`FertayLageeze.github.io` 仓库的 GitHub Pages 使用 `main` 分支的 `/docs` 目录。提交生成后的 `docs/` 即可更新网站。
+`Yongjian-Wang6.github.io` 仓库的 GitHub Pages 使用 `main` 分支的 `/docs` 目录。提交生成后的 `docs/` 即可更新网站。
 
-配套简介发布到 `FertayLageeze/FertayLageeze` 仓库，将 `profile/README.md` 和 `profile/README.zh-CN.md` 放到该仓库根目录。更新主页内容后，同步这两个文件以保持一致。
+配套简介发布到 `Yongjian-Wang6/Yongjian-Wang6` 仓库，将 `profile/README.md` 和 `profile/README.zh-CN.md` 放到该仓库根目录。更新主页内容后，同步这两个文件以保持一致。
 
 ## 公开内容范围
 
