@@ -1,0 +1,166 @@
+{
+  "name": "Yongjian Wang",
+  "name_zh": "王永健",
+  "github": "FertayLageeze",
+  "email": "wyjares@163.com",
+  "updated": "2026-10-15",
+  "openreview": "https://openreview.net/profile?id=~Yongjian_Wang3",
+  "intro": {
+    "zh": "探索生物启发的智能，也让智能走向真实应用。",
+    "en": "Exploring brain-inspired intelligence. Building for the real world."
+  },
+  "about": {
+    "zh": "我的研究围绕脉冲神经网络、强化学习与科学智能展开，关注网络结构、学习机制与可验证推理之间的联系。我也将这些方法应用于计算病理、生理时序建模和低功耗神经形态计算。",
+    "en": "My research spans spiking neural networks, reinforcement learning, and AI for science, with an interest in how network structure, learning mechanisms, and verifiable reasoning fit together. I also work on computational pathology, physiological time-series modeling, and low-power neuromorphic computing."
+  },
+  "education": {
+    "degree": {"zh": "人工智能硕士", "en": "M.Sc. in Artificial Intelligence"},
+    "institution": {"zh": "中国科学院大学", "en": "University of Chinese Academy of Sciences"},
+    "institute": {"zh": "中国科学院自动化研究所", "en": "Institute of Automation, Chinese Academy of Sciences"},
+    "period": "2023–2026"
+  },
+  "interests": [
+    {
+      "number": "01",
+      "title": {"zh": "类脑智能与学习", "en": "Brain-inspired intelligence"},
+      "text": {"zh": "脑拓扑、脉冲神经网络、循环动力学与强化学习。", "en": "Brain topology, spiking neural networks, recurrent dynamics, and reinforcement learning."}
+    },
+    {
+      "number": "02",
+      "title": {"zh": "科学智能与推理", "en": "Scientific agents & reasoning"},
+      "text": {"zh": "面向材料与化学的智能体、知识图谱和可执行机制推理。", "en": "Agents, knowledge graphs, and executable mechanism reasoning for materials and chemistry."}
+    },
+    {
+      "number": "03",
+      "title": {"zh": "医疗人工智能", "en": "AI for healthcare"},
+      "text": {"zh": "全切片病理图像、多模态生理时序与 Neural ODE。", "en": "Whole-slide pathology, multimodal physiological time series, and neural ODEs."}
+    }
+  ],
+  "papers": [
+    {
+      "id": "agentic-mechanism",
+      "title": "Agentic Mechanism Querying for Complex Material Requirements",
+      "authors": ["Shuxin Zeng", "Xinyuan Cai", "Yongjian Wang", "Xiang Cheng"],
+      "year": 2026,
+      "venue": "ACM The Web Conference 2027",
+      "status": "under-review",
+      "topic": {"zh": "科学智能", "en": "AI for science"},
+      "source": "supplied OpenReview screenshot, 2026-10-14"
+    },
+    {
+      "id": "mechreason",
+      "title": "MechReason: Benchmarking Executable Mechanism Query Answering over a Literature-Derived Spoke Graph",
+      "authors": ["Shuxin Zeng", "Yongjian Wang", "YuZhe Gao", "Xinyuan Cai"],
+      "year": 2026,
+      "venue": "ACL ARR · October 2026",
+      "status": "under-review",
+      "topic": {"zh": "科学智能", "en": "AI for science"},
+      "source": "supplied OpenReview screenshot, 2026-10-13"
+    },
+    {
+      "id": "spiking-transformers",
+      "title": "Spiking Local Interaction and Adaptive Complementary Fusion for Spiking Transformers",
+      "authors": ["Dongcheng Zhao", "Sicheng Shen", "Zhiyuan Li", "Zhenyu Yang", "Jinyan Yu", "Yongjian Wang", "Tiechu Yao", "Wenli Zhang", "Tielin Zhang"],
+      "year": 2026,
+      "venue": "AAAI 2027",
+      "status": "under-review",
+      "topic": {"zh": "类脑智能", "en": "Brain-inspired AI"},
+      "source": "supplied OpenReview screenshot, 2026-08-21"
+    },
+    {
+      "id": "csdkg",
+      "title": "CSDKG: Chemical-symbolic dynamic knowledge graph with trainable rule embeddings",
+      "authors": ["Shuxin Zeng", "Yongjian Wang", "Xuanle Zhao", "et al."],
+      "year": 2026,
+      "venue": "SIGMOD 2026",
+      "status": "under-review",
+      "topic": {"zh": "科学智能", "en": "AI for science"},
+      "source": "supplied CV; submission status as provided"
+    },
+    {
+      "id": "motif-ode",
+      "title": "Motif-regularized neural ODE-GRU for intraoperative hypotension prediction",
+      "authors": ["Yongjian Wang", "Xuanle Zhao", "et al."],
+      "year": 2026,
+      "venue": "npj Digital Medicine",
+      "status": "under-review",
+      "topic": {"zh": "医疗 AI", "en": "Healthcare AI"},
+      "source": "supplied CV; submission status as provided"
+    },
+    {
+      "id": "functional-barriers",
+      "title": "Beyond Surrogate-Gradient Agreement: Functional Barriers in Recurrent Spiking Reinforcement Learning",
+      "authors": ["Yongjian Wang", "Shuxin Zeng"],
+      "year": 2026,
+      "venue": "AAAI 2027",
+      "status": "withdrawn",
+      "topic": {"zh": "类脑智能", "en": "Brain-inspired AI"},
+      "note": {"zh": "已撤回 AAAI 2027 投稿，计划上传 arXiv。", "en": "Withdrawn from AAAI 2027; an arXiv release is planned."},
+      "url": "https://openreview.net/forum?id=svdnuUVRxL",
+      "source": "explicit user correction and supplied OpenReview screenshot"
+    },
+    {
+      "id": "bt-snn",
+      "title": "Brain topology improved spiking neural network for efficient reinforcement learning of continuous control",
+      "authors": ["Yongjian Wang", "Yansong Wang", "Xinhe Zhang", "Jiulin Du", "Tielin Zhang", "Bo Xu"],
+      "equal_contribution": ["Yongjian Wang", "Yansong Wang"],
+      "year": 2024,
+      "venue": "Frontiers in Neuroscience · 18:1325062",
+      "status": "published",
+      "topic": {"zh": "类脑智能", "en": "Brain-inspired AI"},
+      "note": {"zh": "† 共同第一作者", "en": "† Equal contribution"},
+      "url": "https://doi.org/10.3389/fnins.2024.1325062",
+      "doi": "10.3389/fnins.2024.1325062",
+      "source": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1325062/full"
+    },
+    {
+      "id": "construction-data",
+      "title": "基于信息化管理平台的安全问题数据分析与应用",
+      "authors": ["王永健"],
+      "year": 2022,
+      "venue": "建设监理 · 2022(10):62–65",
+      "status": "published",
+      "topic": {"zh": "工程数据分析", "en": "Engineering analytics"},
+      "source": "supplied CV"
+    }
+  ],
+  "projects": [
+    {
+      "label": "SNN / REINFORCEMENT LEARNING",
+      "title": {"zh": "让脑拓扑参与连续控制", "en": "Brain topology for continuous control"},
+      "text": {"zh": "将生物脑拓扑嵌入脉冲神经网络，以 ARS 进化策略优化连接权重，在 MuJoCo 连续控制任务中探索结构与学习的协同。", "en": "Embedding biological brain topology into spiking networks and optimizing synaptic weights with adaptive random search for continuous-control tasks in MuJoCo."},
+      "url": "https://doi.org/10.3389/fnins.2024.1325062"
+    },
+    {
+      "label": "COMPUTATIONAL PATHOLOGY",
+      "title": {"zh": "从整张切片到病灶定位", "en": "From whole slides to lesion localization"},
+      "text": {"zh": "围绕软组织肿瘤分级与皮肤病理图像，研究基于 Virchow2 的多实例学习、条件分割，以及基于 DINOv2 的病灶识别与弱监督分割。", "en": "Working on soft-tissue tumor grading and skin pathology through Virchow2-based multiple-instance learning, conditional segmentation, and DINOv2-based lesion recognition and weak supervision."}
+    },
+    {
+      "label": "NEURAL ODE / TIME SERIES",
+      "title": {"zh": "连续时间的生理信号建模", "en": "Physiology in continuous time"},
+      "text": {"zh": "结合多模态生理信号、时频分析与 Neural ODE，建模术中生理变化并研究低血压等高危事件的提前预测。", "en": "Combining multimodal physiological signals, time-frequency analysis, and neural ODEs to model intraoperative dynamics and investigate early prediction of events such as hypotension."}
+    },
+    {
+      "label": "NEUROMORPHIC COMPUTING",
+      "title": {"zh": "连接类脑算法与低功耗硬件", "en": "Connecting algorithms and neuromorphic hardware"},
+      "text": {"zh": "搭建包含 LIF / Izhikevich 神经元和 STDP 在线学习的仿真验证平台，参与神经形态芯片的算法设计、硬件映射与协同迭代。", "en": "Building simulation workflows with LIF / Izhikevich neurons and STDP online learning, with work spanning algorithm design, hardware mapping, and neuromorphic system iteration."}
+    }
+  ],
+  "software": [
+    {"name": "Repro Flightdeck", "repo": "repro-flightdeck", "text": {"zh": "可审计的实验智能体原型：执行、恢复输出绑定、独立验证与过程回放。", "en": "An inspectable experiment-agent prototype for execution, output-binding recovery, independent verification, and replay."}},
+    {"name": "split-leakage-audit", "repo": "split-leakage-audit", "text": {"zh": "离线检查训练、验证与测试集之间的样本、分组和内容重叠。", "en": "Offline checks for sample, group, and content overlap across declared dataset splits."}},
+    {"name": "paired-eval", "repo": "paired-eval", "text": {"zh": "严格对齐实验单元的配对比较，输出效应量、Bootstrap 区间与符号翻转检验。", "en": "Strictly aligned paired comparisons with effect estimates, bootstrap intervals, and sign-flip tests."}}
+  ],
+  "experience": [
+    {"period": "2025.08–", "role": {"zh": "大模型算法工程师 · 实习", "en": "AI Algorithm Engineer · Internship"}, "organization": {"zh": "北京透彻未来科技有限公司 · 透彻实验室", "en": "Beijing Thorough Future Technology · Thorough Lab"}, "text": {"zh": "计算病理、基础模型与弱监督病灶分割。", "en": "Computational pathology, foundation models, and weakly supervised lesion segmentation."}},
+    {"period": "2023–2026", "role": {"zh": "人工智能硕士", "en": "M.Sc. in Artificial Intelligence"}, "organization": {"zh": "中国科学院大学 / 中国科学院自动化研究所", "en": "UCAS / Institute of Automation, Chinese Academy of Sciences"}, "text": {"zh": "脉冲神经网络、强化学习与类脑计算研究。", "en": "Research in spiking neural networks, reinforcement learning, and brain-inspired computing."}},
+    {"period": "2018.05–2023.09", "role": {"zh": "项目开发与算法负责人", "en": "Project Development & Algorithm Lead"}, "organization": {"zh": "诺士诚国际", "en": "Nuoshicheng International"}, "text": {"zh": "智慧工程产品、知识图谱、风险预测与软件交付。", "en": "Smart construction products, knowledge graphs, risk prediction, and software delivery."}}
+  ],
+  "honors": [
+    {"zh": "中国科学院大学三好学生标兵，2024–2025 学年", "en": "Outstanding Student Model, UCAS · 2024–2025"},
+    {"zh": "“创客北京 2024”一等奖，项目负责人", "en": "First Prize, Maker Beijing 2024 · Project lead"},
+    {"zh": "“创客中国”全国 50 强，项目团队", "en": "National Top 50, Maker China · Project team"}
+  ],
+  "skills": "Python · PyTorch · SNN · Neural ODE · LoRA / QLoRA · RAG · Agents · Java / Spring Boot · Docker"
+}
