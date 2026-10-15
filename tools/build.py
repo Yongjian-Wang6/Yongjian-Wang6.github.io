@@ -137,6 +137,8 @@ def readme(lang):
     for status, heading in [("published", "已发表" if zh else "Published"), ("under-review", "在投" if zh else "Under review"), ("withdrawn", "撤稿与后续计划" if zh else "Withdrawn & planned")]:
         lines += [f"### {heading}", ""]
         for paper in P["papers"]:
+            if paper["status"] != status:
+                continue
             title = f'[{paper["title"]}]({paper["url"]})' if paper.get("url") else paper["title"]
             names = []
             for name in paper["authors"]:

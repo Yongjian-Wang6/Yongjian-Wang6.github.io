@@ -68,26 +68,6 @@
       "source": "supplied OpenReview screenshot, 2026-08-21"
     },
     {
-      "id": "csdkg",
-      "title": "CSDKG: Chemical-symbolic dynamic knowledge graph with trainable rule embeddings",
-      "authors": ["Shuxin Zeng", "Yongjian Wang", "Xuanle Zhao", "et al."],
-      "year": 2026,
-      "venue": "SIGMOD 2026",
-      "status": "under-review",
-      "topic": {"zh": "科学智能", "en": "AI for science"},
-      "source": "supplied CV; submission status as provided"
-    },
-    {
-      "id": "motif-ode",
-      "title": "Motif-regularized neural ODE-GRU for intraoperative hypotension prediction",
-      "authors": ["Yongjian Wang", "Xuanle Zhao", "et al."],
-      "year": 2026,
-      "venue": "npj Digital Medicine",
-      "status": "under-review",
-      "topic": {"zh": "医疗 AI", "en": "Healthcare AI"},
-      "source": "supplied CV; submission status as provided"
-    },
-    {
       "id": "functional-barriers",
       "title": "Beyond Surrogate-Gradient Agreement: Functional Barriers in Recurrent Spiking Reinforcement Learning",
       "authors": ["Yongjian Wang", "Shuxin Zeng"],

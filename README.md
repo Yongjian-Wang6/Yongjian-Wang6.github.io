@@ -33,7 +33,7 @@ python -m http.server 8765 --directory docs
 - 在投稿件保留明确的在投标签；录用后再更新状态和正式出版信息。
 - `functional-barriers` 已撤稿，目前仅声明计划上传 arXiv。正式上线后，将 `url` 改为真实的 arXiv 地址，并更新状态说明，勿提前添加占位链接。
 - `equal_contribution` 按正式出版页面标注。
-- `source` 记录内容依据。两篇来自简历的在投稿件状态仍以作者后续更新为准。
+- `source` 记录内容依据。公开展示的论文范围以作者确认的清单为准。
 
 ## 发布
 

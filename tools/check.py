@@ -63,6 +63,17 @@ def main():
         assert not re.search(r"本科|Bachelor|B\.Sc\.", text, re.I), f"Unexpected education in {path}"
     assert not list(DOCS.rglob("*.pdf")), "Original CV must not be published"
     assert (ROOT / "profile/README.md").is_file()
+    for language, path in [("en", ROOT / "profile/README.md"), ("zh", ROOT / "profile/README.zh-CN.md")]:
+        readme = path.read_text()
+        headings = {
+            "published": "已发表" if language == "zh" else "Published",
+            "under-review": "在投" if language == "zh" else "Under review",
+            "withdrawn": "撤稿与后续计划" if language == "zh" else "Withdrawn & planned",
+        }
+        for paper in papers:
+            assert readme.count(paper["title"]) == 1, f"Duplicate or missing publication in {path}"
+            group = readme.split("### " + headings[paper["status"]] + "\n", 1)[1].split("\n##", 1)[0]
+            assert paper["title"] in group, f"Incorrect publication status group in {path}"
     print(f"PASS: {len(papers)} papers, {len(page.ids)} unique anchors, all local assets and public-content checks")
 
 

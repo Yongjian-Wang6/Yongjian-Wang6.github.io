@@ -14,30 +14,6 @@ My research spans spiking neural networks, reinforcement learning, and AI for sc
 
 ### Published
 
-- **Agentic Mechanism Querying for Complex Material Requirements**  
-  Shuxin Zeng, Xinyuan Cai, **Yongjian Wang**, Xiang Cheng.  
-  ACM The Web Conference 2027 · 2026.
-
-- **MechReason: Benchmarking Executable Mechanism Query Answering over a Literature-Derived Spoke Graph**  
-  Shuxin Zeng, **Yongjian Wang**, YuZhe Gao, Xinyuan Cai.  
-  ACL ARR · October 2026 · 2026.
-
-- **Spiking Local Interaction and Adaptive Complementary Fusion for Spiking Transformers**  
-  Dongcheng Zhao, Sicheng Shen, Zhiyuan Li, Zhenyu Yang, Jinyan Yu, **Yongjian Wang**, Tiechu Yao, Wenli Zhang, Tielin Zhang.  
-  AAAI 2027 · 2026.
-
-- **CSDKG: Chemical-symbolic dynamic knowledge graph with trainable rule embeddings**  
-  Shuxin Zeng, **Yongjian Wang**, Xuanle Zhao, et al..  
-  SIGMOD 2026 · 2026.
-
-- **Motif-regularized neural ODE-GRU for intraoperative hypotension prediction**  
-  **Yongjian Wang**, Xuanle Zhao, et al..  
-  npj Digital Medicine · 2026.
-
-- **[Beyond Surrogate-Gradient Agreement: Functional Barriers in Recurrent Spiking Reinforcement Learning](https://openreview.net/forum?id=svdnuUVRxL)**  
-  **Yongjian Wang**, Shuxin Zeng.  
-  AAAI 2027 · 2026. Withdrawn from AAAI 2027; an arXiv release is planned.
-
 - **[Brain topology improved spiking neural network for efficient reinforcement learning of continuous control](https://doi.org/10.3389/fnins.2024.1325062)**  
   **Yongjian Wang**†, Yansong Wang†, Xinhe Zhang, Jiulin Du, Tielin Zhang, Bo Xu.  
   Frontiers in Neuroscience · 18:1325062 · 2024. † Equal contribution
@@ -60,59 +36,11 @@ My research spans spiking neural networks, reinforcement learning, and AI for sc
   Dongcheng Zhao, Sicheng Shen, Zhiyuan Li, Zhenyu Yang, Jinyan Yu, **Yongjian Wang**, Tiechu Yao, Wenli Zhang, Tielin Zhang.  
   AAAI 2027 · 2026.
 
-- **CSDKG: Chemical-symbolic dynamic knowledge graph with trainable rule embeddings**  
-  Shuxin Zeng, **Yongjian Wang**, Xuanle Zhao, et al..  
-  SIGMOD 2026 · 2026.
-
-- **Motif-regularized neural ODE-GRU for intraoperative hypotension prediction**  
-  **Yongjian Wang**, Xuanle Zhao, et al..  
-  npj Digital Medicine · 2026.
-
-- **[Beyond Surrogate-Gradient Agreement: Functional Barriers in Recurrent Spiking Reinforcement Learning](https://openreview.net/forum?id=svdnuUVRxL)**  
-  **Yongjian Wang**, Shuxin Zeng.  
-  AAAI 2027 · 2026. Withdrawn from AAAI 2027; an arXiv release is planned.
-
-- **[Brain topology improved spiking neural network for efficient reinforcement learning of continuous control](https://doi.org/10.3389/fnins.2024.1325062)**  
-  **Yongjian Wang**†, Yansong Wang†, Xinhe Zhang, Jiulin Du, Tielin Zhang, Bo Xu.  
-  Frontiers in Neuroscience · 18:1325062 · 2024. † Equal contribution
-
-- **基于信息化管理平台的安全问题数据分析与应用**  
-  **王永健**.  
-  建设监理 · 2022(10):62–65 · 2022.
-
 ### Withdrawn & planned
 
-- **Agentic Mechanism Querying for Complex Material Requirements**  
-  Shuxin Zeng, Xinyuan Cai, **Yongjian Wang**, Xiang Cheng.  
-  ACM The Web Conference 2027 · 2026.
-
-- **MechReason: Benchmarking Executable Mechanism Query Answering over a Literature-Derived Spoke Graph**  
-  Shuxin Zeng, **Yongjian Wang**, YuZhe Gao, Xinyuan Cai.  
-  ACL ARR · October 2026 · 2026.
-
-- **Spiking Local Interaction and Adaptive Complementary Fusion for Spiking Transformers**  
-  Dongcheng Zhao, Sicheng Shen, Zhiyuan Li, Zhenyu Yang, Jinyan Yu, **Yongjian Wang**, Tiechu Yao, Wenli Zhang, Tielin Zhang.  
-  AAAI 2027 · 2026.
-
-- **CSDKG: Chemical-symbolic dynamic knowledge graph with trainable rule embeddings**  
-  Shuxin Zeng, **Yongjian Wang**, Xuanle Zhao, et al..  
-  SIGMOD 2026 · 2026.
-
-- **Motif-regularized neural ODE-GRU for intraoperative hypotension prediction**  
-  **Yongjian Wang**, Xuanle Zhao, et al..  
-  npj Digital Medicine · 2026.
-
 - **[Beyond Surrogate-Gradient Agreement: Functional Barriers in Recurrent Spiking Reinforcement Learning](https://openreview.net/forum?id=svdnuUVRxL)**  
   **Yongjian Wang**, Shuxin Zeng.  
   AAAI 2027 · 2026. Withdrawn from AAAI 2027; an arXiv release is planned.
-
-- **[Brain topology improved spiking neural network for efficient reinforcement learning of continuous control](https://doi.org/10.3389/fnins.2024.1325062)**  
-  **Yongjian Wang**†, Yansong Wang†, Xinhe Zhang, Jiulin Du, Tielin Zhang, Bo Xu.  
-  Frontiers in Neuroscience · 18:1325062 · 2024. † Equal contribution
-
-- **基于信息化管理平台的安全问题数据分析与应用**  
-  **王永健**.  
-  建设监理 · 2022(10):62–65 · 2022.
 
 ## Open-source software
 
